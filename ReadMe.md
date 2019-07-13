@@ -13,3 +13,9 @@ Pytorch Code for MAD-GAN.
 #### Datset 
 * A distribution of 1D GMM having five mixture components with modes at 10, 20, 60, 80 and 110, and standard
 deviations of 3, 3, 2, 2 and 1, respectively.
+
+#### Usage
+* Run the Simple_GANs.ipynb to generate the results for vanilla GAN.
+* For MAD-GAN run the Mad_GANs.ipynb to compare the results of vanillaGAN over MAD-GAN.
+
+#### Results
