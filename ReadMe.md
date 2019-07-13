@@ -1,3 +1,3 @@
-# Multi Agent Diverse Genererative Adversarial Network (MAD-GAN) Tensorflow
+# Multi Agent Diverse Genererative Adversarial Network
 
 Pytorch Code MAD-GAN repository
