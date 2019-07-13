@@ -21,4 +21,7 @@ deviations of 3, 3, 2, 2 and 1, respectively.
 
 #### Results
 ![Drag Racing](results.png)
-[Left]: 
+
+[Left]: Result of VanillaGAN [Right]: Result of MAD-GAN (number of generator = 4)
+
+
