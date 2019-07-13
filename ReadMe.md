@@ -28,5 +28,6 @@ deviations of 3, 3, 2, 2 and 1, respectively.
 ### Resources
 
 *[Multi-Agent Diverse Generative Adversarial Networks](https://www.youtube.com/watch?v=DP4j2w-x7KI)
+
 *[Ghosh, Arnab, et al. "Multi-agent diverse generative adversarial networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ghosh_Multi-Agent_Diverse_Generative_CVPR_2018_paper.pdf)
 
