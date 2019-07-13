@@ -11,4 +11,5 @@ Pytorch Code for MAD-GAN.
 * Jupyter Notebook
 
 #### Datset 
-* Pascal VOC
+* A distribution of 1D GMM having five mixture components with modes at 10, 20, 60, 80 and 110, and standard
+deviations of 3, 3, 2, 2 and 1, respectively.
