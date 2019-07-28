@@ -20,7 +20,7 @@ deviations of 3, 3, 2, 2 and 1, respectively.
 * Number of generater of MAD-GAN can by changing 'num_gen' and G.params(). 
 
 #### Results
-![Drag Racing](results.png)
+![Drag Racing](simple.gif)![Drag Racing](mad.gif)
 
                  [Left]: Result of VanillaGAN                [Right]: Result of MAD-GAN (number of generator = 4)
 
