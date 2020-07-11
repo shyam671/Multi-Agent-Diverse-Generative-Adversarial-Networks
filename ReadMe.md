@@ -1,4 +1,4 @@
-# Multi Agent Diverse Genererative Adversarial Network (MAD-GAN)
+# Multi Agent Diverse Generative Adversarial Network (MAD-GAN)
 
 Pytorch Code for MAD-GAN.
 
